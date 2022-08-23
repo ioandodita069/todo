@@ -1,1 +1,22 @@
-/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/scss/bootstrap";
+
+#button-addon2 {
+  color: white;
+}
+.done {
+  text-decoration: line-through;
+}
+#header {
+  text-align: center;
+}
+.container {
+  background-color:peru;
+  height: auto;
+  border-top-right-radius: 40px;
+  border-top-left-radius: 40px;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+}
+.btn-primary{
+    background-color: brown;
+}
